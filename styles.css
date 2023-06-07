@@ -1,0 +1,24 @@
+﻿body {
+  background-color: #f8f9fa;
+}
+
+.nav-item a {
+  color: #ffffff;
+}
+
+.nav-item a:hover {
+  color: #17a2b8;
+}
+
+#content {
+  width: 66.66%; /* Content will take up 2/3 of the page width */
+  margin: 20px auto; /* Top and bottom margin of 20px, auto left and right margin for center alignment */
+}
+
+iframe,
+.card,
+.row,
+#sns-icons {
+  display: block; /* Make these elements block to enable center alignment */
+  margin: 20px auto; /* Top and bottom margin of 20px, auto left and right margin for center alignment */
+}
